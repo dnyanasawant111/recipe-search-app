@@ -1,4 +1,4 @@
-# recipe-search-app
+# recipe-search-app.
 
 Recipe Search and Diet API not only focuses on providing the most popular recipes 
 but also takes diet and nutrition into consideration by providing a complete nutritional breakdown 
